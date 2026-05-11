@@ -28,9 +28,10 @@ I am a passionate **Computer Applications (BCA) student** at Amity University, c
 * Developed a 4-panel visual dashboard with Pandas and Seaborn to identify discount vs. rating trends.
 * Shared insights directly on LinkedIn to show business-driven data analytical skills.
 
-#### 🤖 [MindEase - Mental Wellness AI Chatbot](https://github.com/Sneha8254/MindEase)
-* Designed a rule-based AI chatbot concept aimed at expanding mental wellness accessibility.
-* Focused on user interaction design and logical conversation workflows.
+#### 🤖[Netflix Content & Trend Analysis](https://github.com/Sneha8254/netflix-analysis) *(Make sure to update this link if your repo name is different!)*
+* Performed Exploratory Data Analysis (EDA) on Netflix's global catalog of movies and TV shows.
+* Cleaned and handled missing values (directors, cast, countries) using Python and Pandas.
+* Visualized growth trends, content distribution by country, and dominant genres using Matplotlib and Seaborn.
 
 ---
 
