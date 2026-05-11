@@ -52,4 +52,4 @@ I am a passionate **Computer Applications (BCA) student** at Amity University, c
 ---
 
 ### 🤝 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username) *(Change this to your actual link!)*
+* **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/sneha-singh-rajput-398435330) *(Change this to your actual link!)*
