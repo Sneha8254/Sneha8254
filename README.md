@@ -37,11 +37,18 @@ I am a passionate **Computer Applications (BCA) student** at Amity University, c
 
 ### 📊 My GitHub Stats
 
+### 📊 My GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneha8254&show_icons=true&theme=dark" alt="Sneha's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha8254&layout=compact&theme=dark" alt="Top Langs" width="300"/>
+  <img src="https://img.shields.io/github/followers/Sneha8254?label=Followers&style=for-the-badge&color=2ecc71" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Sneha8254/ecommerce-analysis?style=for-the-badge&color=f1c40f" alt="Ecommerce Stars" />
+  <img src="https://img.shields.io/github/repo-size/Sneha8254/ecommerce-analysis?style=for-the-badge&color=3498db" alt="Repo Size" />
 </p>
 
+#### 📅 Coding Activity Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha8254&theme=react-dark" alt="Sneha's Activity Graph" width="100%" />
+</p>
 ---
 
 ### 🤝 Let's Connect!
