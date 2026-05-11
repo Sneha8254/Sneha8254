@@ -38,8 +38,8 @@ I am a passionate **Computer Applications (BCA) student** at Amity University, c
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneha8254&show_icons=true&theme=radical" alt="Sneha's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha8254&layout=compact&theme=radical" alt="Top Langs" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sneha8254&show_icons=true&theme=dark" alt="Sneha's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha8254&layout=compact&theme=dark" alt="Top Langs" width="300"/>
 </p>
 
 ---
