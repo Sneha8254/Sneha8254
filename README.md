@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Sneha! 👋
 
-<!--
-**Sneha8254/Sneha8254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Computer Applications (BCA) student** at Amity University, currently building my foundation in Software Engineering, Data Analysis, and Full-Stack Development. I love solving algorithmic challenges, working with data pipelines, and building functional applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+* 💻 **Problem Solving:** Actively practicing **Data Structures & Algorithms (DSA)** in **C++**.
+* 📊 **Data Engineering:** Building end-to-end extraction and analysis pipelines using **Python & SQL**.
+* 🌐 **Web Development:** Crafting responsive front-end interfaces using **HTML, CSS, and JavaScript**.
+
+---
+
+### 🛠️ My Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C++`, `Python`, `SQL` (SQLite), `JavaScript` |
+| **Data & Core CS** | `DSA`, `OOPs`, `Pandas`, `Matplotlib`, `Seaborn` |
+| **Web Development** | `HTML5`, `CSS3`, `Git`, `VS Code` |
+
+---
+
+### 📁 Featured Projects
+
+#### 📊 [E-Commerce Sales & Customer Behavior Pipeline](https://github.com/Sneha8254/ecommerce-analysis)
+* Built a clean SQLite database pipeline using Python to analyze and clean 1,400+ product entries.
+* Developed a 4-panel visual dashboard with Pandas and Seaborn to identify discount vs. rating trends.
+* Shared insights directly on LinkedIn to show business-driven data analytical skills.
+
+#### 🤖 [MindEase - Mental Wellness AI Chatbot](https://github.com/Sneha8254/MindEase)
+* Designed a rule-based AI chatbot concept aimed at expanding mental wellness accessibility.
+* Focused on user interaction design and logical conversation workflows.
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sneha8254&show_icons=true&theme=radical" alt="Sneha's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha8254&layout=compact&theme=radical" alt="Top Langs" width="300"/>
+</p>
+
+---
+
+### 🤝 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username) *(Change this to your actual link!)*
