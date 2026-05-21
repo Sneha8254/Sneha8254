@@ -17,7 +17,7 @@ I am a passionate **Computer Applications (BCA) student** at Amity University, c
 | :--- | :--- |
 | **Languages** | `C++`, `Python`, `SQL` (SQLite), `JavaScript` |
 | **Data & Core CS** | `DSA`, `OOPs`, `Pandas`, `Matplotlib`, `Seaborn` |
-| **Web Development** | `HTML5`, `CSS3`, `Git`, `VS Code` |
+| **Web Development** | `HTML`, `CSS` |
 
 ---
 
@@ -52,4 +52,4 @@ I am a passionate **Computer Applications (BCA) student** at Amity University, c
 ---
 
 ### 🤝 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/sneha-singh-rajput-398435330) 
+* **LinkedIn:** (https://linkedin.com/in/sneha-singh-rajput-398435330) 
