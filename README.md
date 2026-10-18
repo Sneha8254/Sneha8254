@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Sneha Singh Rajput
+# 👋 Hey there! I'm Sneha Singh
 
 ## 🚀 Data Analyst | SQL & Python | Fraud Detection Specialist
 
